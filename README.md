@@ -1,6 +1,8 @@
 # microsft-office-certs-study
 study material for Microsoft certs for [M365 Office Apps](https://m365.cloud.microsoft/apps/?auth=1&origindomain=Office&client-request-id=53945977-15b0-4c00-9cce-38c5b40c4ea2)
 
+[MSFT Preparation Materials](https://learn.microsoft.com/en-us/training/educator-center/instructor-materials/microsoft-365-apps-certification-preparation-materials#microsoft-excel-microsoft-365-apps)
+
 - [Microsoft Office Specialist: Associate (Office 2019)](https://learn.microsoft.com/en-us/credentials/certifications/microsoft-office-specialist-associate-2019/)
   - [MO-100: Microsoft Office Specialist: Word Associate (Office 2019)](https://learn.microsoft.com/en-us/credentials/certifications/mos-word-2019/?practice-assessment-type=certification)
   - [MO-200: Microsoft Office Specialist: Excel Associate (Office 2019)](https://learn.microsoft.com/en-us/credentials/certifications/mos-excel-2019/?practice-assessment-type=certification)
