@@ -1,0 +1,1 @@
+[MO-110: Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)](https://learn.microsoft.com/en-us/credentials/certifications/mos-word-associate-m365-apps/?practice-assessment-type=certification)
