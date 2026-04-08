@@ -1,10 +1,7 @@
 - [MO-110: Microsoft Office Specialist: Word Associate (Microsoft 365 Apps)](https://learn.microsoft.com/en-us/credentials/certifications/mos-word-associate-m365-apps/?practice-assessment-type=certification)
 - [Exam MO-110 skills outline](https://arch-center.azureedge.net/Learning/Credentials/MO-110_OD_MOS365_Word.pdf)
 
-
-# Exam MO- 110 : Microsoft Word (Microsoft
-
-# 365 Apps) – Skills Measured
+# Exam MO- 110 : Microsoft Word (Microsoft 365 Apps) – Skills Measured
 
 ## Manage documents (20–25%)
 
